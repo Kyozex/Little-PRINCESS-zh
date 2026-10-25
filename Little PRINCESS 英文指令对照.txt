@@ -35,7 +35,7 @@ use | 使用 | 16
 wake, wake up | 唤醒 | 17
 move | 移动、去、向着、向、朝、朝着 | 18
 open | 打开 | 19
-violate, rape | 侵犯、强暴（原词须按语境理解） | 20
+violate, rape | 侵犯、强暴 | 20
 assault | 袭击 | 20
 undress | 替他人脱衣 | 20
 dig | 挖掘 | 21
@@ -176,7 +176,6 @@ spider | 蜘蛛 | 088
 ceiling | 天花板 | 089
 chandelier | 枝形吊灯 | 090
 roof | 屋顶 | 091
-juujo | 原词“ジュウジョ”释义待核 | 092
 dwelling, residence | 住处 | 092
 telephone, phone | 电话 | 093
 phone number | 电话号码 | 093
@@ -188,10 +187,10 @@ miki, miki chan | 米基、米基酱 | 098
 
 开场区域的场景数据中确认存在以下指令组合：
   look tree          查看树木
-  look mountain     查看群山
+  look mountain      查看群山
   look road          查看道路
   look grass         查看草丛
-  take bamboo shoot 拿取竹笋
+  take bamboo shoot  拿取竹笋
   dig ground         挖掘地面
   climb tree         攀爬树木
   cut tree           砍树
@@ -199,4 +198,4 @@ miki, miki chan | 米基、米基酱 | 098
   south              向南移动
   east               向东移动
 
-已逐项对照原版 se/verb.js 与 se/noun.js。相同编号只表示复用同一个旧游戏事件码，不代表词义相同；例如 north/front、west/left、east/right、south/back、retreat/descend 都分别保留原词义。复核修正包括：オカス（原词无汉字，按语境可指侵犯/强暴）、オソウ=assault、ヌガス=undress、サガル=retreat、キク=listen；attack 保留给コウゲキ，以免两个不同旧编号冲突。ハニワ／ハニ仅使用“哈尼”或“哈尼瓦”；输入 hani 显示“哈尼”，输入 haniwa 显示“哈尼瓦”。ドグウ是另一日文词，虽共用编号056，仍单独对应“土偶”。クサ与クサムラ、エ与ガク、タナ与タンス与トダナ均分开列义。ダンロ校为 fireplace，シーチキン注明为金枪鱼罐头；英词过度具体或错配的 hip、katana、doorknob、paint can 等已移除。ジュウジョ无法从原脚本拼写可靠判义，保留 juujo 音译并标为待核；スマイ另列 dwelling/residence，不猜成十字形装饰。已知的开场组合另有场景数据核验；其余组合仍受原游戏剧情事件限制。
+已逐项对照原版 se/verb.js 与 se/noun.js。相同编号只表示复用同一个旧游戏事件码，不代表词义相同；例如 north/front、west/left、east/right、south/back、retreat/descend 都分别保留原词义。已知的开场组合另有场景数据核验；其余组合仍受原游戏剧情事件限制。
