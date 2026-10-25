@@ -1,0 +1,1025 @@
+Little PRINCESS　拼音指令对照表
+
+本表列出本汉化版内置的全部 742 条拼音指令词条（动作 264 条、对象 478 条）。
+数据直接取自随游戏封装的拼音指令表，与实际可输入的词条完全一致。
+
+  · 拼音一律不标声调，词内音节连写；动作与对象之间用一个半角空格分隔，
+    例如 shiyong yaoshi 会显示为「使用 钥匙」。
+  · 方向指令单独输入，不带对象，例如 bei 显示为「北」。
+  · 同一个汉字可能对应多个拼音词条，任选其一输入均可。
+  · 「编号」是游戏内部的动作／对象编号（沿用原版场景编号），仅供核对使用；
+    编号相同并不代表可以随意搭配，请以《Little PRINCESS 中文流程攻略.txt》给出的指令为准。
+  · 同一套动作与对象也可以用英语输入，写法见《Little PRINCESS 英文指令对照.txt》。
+
+==============================================================================
+  一、动作词（264 条）
+==============================================================================
+
+  编号 01
+      chakan                  查看
+      chazhao                 查找
+      diaocha                 调查
+      guancha                 观察
+      guankan                 观看
+      jiancha                 检查
+      jianshi                 检视
+      kan                     看
+      tancha                  探查
+
+  编号 02
+      biaoshi                 表示
+      dazhaohu                打招呼
+      duihua                  对话
+      duitan                  对谈
+      gaosu                   告诉
+      hanxuan                 寒暄
+      huitan                  会谈
+      jiang                   讲
+      jiaotan                 交谈
+      liaotian                聊天
+      shuo                    说
+      shuochu                 说出
+      shuohua                 说话
+      tanhua                  谈话
+      wenhou                  问候
+      zhaohu                  招呼
+
+  编号 03
+      chi                     吃
+      chidiao                 吃掉
+      gongda                  攻打
+      gongji                  攻击
+      jieshou                 接受
+      jingong                 进攻
+      jinshi                  进食
+      lingshou                领受
+      sha                     杀
+      shadiao                 杀掉
+      shahai                  杀害
+      shasi                   杀死
+      shouxia                 收下
+      tun                     吞
+      tunshi                  吞食
+      yan                     咽
+
+  编号 04
+      dadou                   打斗
+      dazhan                  大战
+      duida                   对打
+      duizhan                 对战
+      jiaozhan                交战
+      yingzhan                迎战
+      zhandou                 战斗
+      zuozhan                 作战
+
+  编号 05
+      ca                      擦
+      cadiao                  擦掉
+      cajing                  擦净
+      cashi                   擦拭
+      mo                      抹
+      moqu                    抹去
+
+  编号 06
+      ge                      割
+      jianxia                 剪下
+      jiequ                   截取
+      kandao                  砍倒
+      kanfa                   砍伐
+      qie                     切
+      qiekai                  切开
+      qiexia                  切下
+      qiexialai               切下来
+
+  编号 07
+      jin                     进
+      jinqu                   进去
+      jinru                   进入
+      jinruqizhong            进入其中
+      zoujin                  走进
+
+  编号 08
+      youshui                 游水
+      youyong                 游泳
+
+  编号 09
+      digei                   递给
+      dijiao                  递交
+      gei                     给
+      geichu                  给出
+      jiaofu                  交付
+      jiaogei                 交给
+      jiyu                    给予
+
+  编号 10
+      bei                     北
+      beishang                北上
+      chaobei                 朝北
+      qian                    前
+      qianjin                 前进
+      wangbei                 往北
+      wangqian                往前
+      xiangbei                向北
+      xiangqian               向前
+
+  编号 11
+      chaonan                 朝南
+      hou                     后
+      houfang                 后方
+      houmian                 后面
+      nan                     南
+      nanxing                 南行
+      wangnan                 往南
+      xianghou                向后
+
+  编号 12
+      chaoxi                  朝西
+      chaozuo                 朝左
+      wangxi                  往西
+      wangzuo                 往左
+      xi                      西
+      xixing                  西行
+      zuo                     左
+      zuozhuan                左转
+
+  编号 13
+      chaodong                朝东
+      chaoyou                 朝右
+      dong                    东
+      dongxing                东行
+      wangdong                往东
+      wangyou                 往右
+      you                     右
+      youzhuan                右转
+
+  编号 14
+      baocun                  保存
+      baocunjindu             保存进度
+      baocunyouxi             保存游戏
+      chucun                  储存
+      chucunjindu             储存进度
+      cunchu                  存储
+      cundang                 存档
+      cundangyouxi            存档游戏
+      jianlicundang           建立存档
+      youxibaocun             游戏保存
+      youxichucun             游戏储存
+      youxicunchu             游戏存储
+      youxicundang            游戏存档
+
+  编号 15
+      dudang                  读档
+      dudangyouxi             读档游戏
+      duqu                    读取
+      duqucundang             读取存档
+      duquyouxi               读取游戏
+      huanyuanyouxi           还原游戏
+      huifucundang            恢复存档
+      huifuyouxi              恢复游戏
+      jixuyibaocundeyouxi     继续已保存的游戏
+      youxidudang             游戏读档
+      youxiduqu               游戏读取
+      zairu                   载入
+      zairuyouxi              载入游戏
+
+  编号 16
+      dongyong                动用
+      liyong                  利用
+      shiyong                 使用
+      yong                    用
+
+  编号 17
+      fuqi                    扶起
+      huanxing                唤醒
+      jiaoqi                  叫起
+      jiaoxing                叫醒
+
+  编号 18
+      bandong                 搬动
+      chao                    朝
+      chaozhe                 朝着
+      nuodong                 挪动
+      qu                      去
+      tuidong                 推动
+      xiang                   向
+      xiangzhe                向着
+      yidong                  移动
+
+  编号 19
+      changkai                敞开
+      dakai                   打开
+      kai                     开
+      kaimen                  开门
+      kaiqi                   开启
+      kaisuo                  开锁
+
+  编号 20
+      baguang                 扒光
+      baxia                   扒下
+      maofan                  冒犯
+      puxiang                 扑向
+      qinfan                  侵犯
+      qinhai                  侵害
+      tuoguang                脱光
+      tuoqu                   脱去
+      tuoxia                  脱下
+      tuoyi                   脱衣
+      tuxi                    突袭
+      xiji                    袭击
+      xixiang                 袭向
+
+  编号 21
+      juekai                  掘开
+      wa                      挖
+      wachu                   挖出
+      wajue                   挖掘
+
+  编号 22
+      chiyou                  持有
+      jianqi                  捡起
+      na                      拿
+      naqu                    拿取
+      nazhe                   拿着
+      nazou                   拿走
+      qude                    取得
+      quzou                   取走
+      shiqu                   拾取
+      xiedai                  携带
+      zhai                    摘
+      zhaiqu                  摘取
+
+  编号 23
+      diu                     丢
+      diuqi                   丢弃
+      pao                     抛
+      paochu                  抛出
+      qizhi                   弃置
+      reng                    扔
+      rengchu                 扔出
+      rengdiao                扔掉
+      sheqi                   舍弃
+      tou                     投
+      touchu                  投出
+      touzhi                  投掷
+      zhichu                  掷出
+
+  编号 24
+      baifang                 拜访
+      dating                  打听
+      fawen                   发问
+      lingting                聆听
+      tanwen                  探问
+      ting                    听
+      tingqu                  听取
+      tiwen                   提问
+      wen                     问
+      xunwen                  询问
+      zhixun                  质询
+      zhiyi                   质疑
+
+  编号 25
+      dengshang               登上
+      pa                      爬
+      pandeng                 攀登
+      panpa                   攀爬
+      panshang                攀上
+      pashang                 爬上
+      shang                   上
+      shanglou                上楼
+      shangqu                 上去
+      shangsheng              上升
+
+  编号 26
+      chetui                  撤退
+      houtui                  后退
+      paxia                   爬下
+      tui                     退
+      tuihou                  退后
+      wanghoutui              往后退
+      xia                     下
+      xiajiang                下降
+      xialai                  下来
+      xialou                  下楼
+      xiaqu                   下去
+      zouxia                  走下
+
+  编号 27
+      da                      打
+      ji                      击
+      ouda                    殴打
+      paida                   拍打
+      qiaoda                  敲打
+      qiaoji                  敲击
+      qingqiao                轻敲
+      tongji                  痛击
+      zou                     揍
+
+  编号 28
+      he                      喝
+      hexia                   喝下
+      yinyong                 饮用
+
+  编号 29
+      chuqu                   出去
+      likai                   离开
+      zouchu                  走出
+
+  编号 30
+      chuanguo                穿过
+      duguo                   渡过
+      guo                     过
+      hengdu                  横渡
+      kuaguo                  跨过
+      zoushang                走上
+
+  编号 32
+      chuai                   踹
+      chuaikai                踹开
+      ti                      踢
+      tida                    踢打
+      tifei                   踢飞
+      tikai                   踢开
+      tiyijiao                踢一脚
+
+==============================================================================
+  二、对象词（478 条）
+==============================================================================
+
+  编号 000
+      wupin                   物品
+
+  编号 001
+      linqin                  林檎
+      pingguo                 苹果
+      pingguoguoshi           苹果果实
+
+  编号 002
+      buou                    布偶
+      maoronggongzai          毛绒公仔
+      maorongwanju            毛绒玩具
+      maorongwanou            毛绒玩偶
+      renou                   人偶
+      wanou                   玩偶
+      wawa                    娃娃
+
+  编号 003
+      suochi                  锁匙
+      yaoshi                  钥匙
+
+  编号 004
+      nensun                  嫩笋
+      sun                     笋
+      zhusun                  竹笋
+
+  编号 005
+      fu                      斧
+      futou                   斧头
+      fuzi                    斧子
+
+  编号 006
+      huangjinfu              黄金斧
+      jinfu                   金斧
+      jinfutou                金斧头
+      jinzhifutou             金制斧头
+
+  编号 007
+      baiyinfu                白银斧
+      yinfu                   银斧
+      yinfutou                银斧头
+      yinzhifutou             银制斧头
+
+  编号 008
+      ningguo                 柠果
+      ningmeng                柠檬
+      ningmengguo             柠檬果
+      xilala                  希拉拉
+      xilalaningmeng          希拉拉柠檬
+
+  编号 009
+      dasuan                  大蒜
+      suan                    蒜
+      suantou                 蒜头
+
+  编号 010
+      guantou                 罐头
+      jinqiangyu              金枪鱼
+      jinqiangyuguantou       金枪鱼罐头
+      jinqiangyuguantoushipin 金枪鱼罐头食品
+      jinqiangyv              金枪鱼
+      jinqiangyvguantou       金枪鱼罐头
+      tunnayuguantou          吞拿鱼罐头
+      yu                      鱼
+      yuguantou               鱼罐头
+      yv                      鱼
+      yvguantou               鱼罐头
+
+  编号 011
+      xiangfen                香氛
+      xiangfenpenwu           香氛喷雾
+      xiangshui               香水
+
+  编号 012
+      cashoujin               擦手巾
+      maojin                  毛巾
+      yujin                   浴巾
+
+  编号 013
+      shijia                  十架
+      shizijia                十字架
+      shizijiashengwu         十字架圣物
+
+  编号 014
+      lanbaoshi               蓝宝石
+      langangyu               蓝刚玉
+      lansebaoshi             蓝色宝石
+
+  编号 015
+      baoshijizuanshi         宝石级钻石
+      jingangshi              金刚石
+      zuanshi                 钻石
+
+  编号 016
+      hongbaoshi              红宝石
+      hongbaoyu               红宝玉
+      hongsebaoshi            红色宝石
+      hongyu                  红玉
+
+  编号 017
+      baojian                 宝剑
+      bishou                  匕首
+      caizhidao               裁纸刀
+      chaixindao              拆信刀
+      changjian               长剑
+      dao                     刀
+      daozi                   刀子
+      jian                    剑
+      kaixindao               开信刀
+      ribendao                日本刀
+      wushidao                武士刀
+      xiaodao                 小刀
+
+  编号 018
+      guancai                 棺材
+      guanmu                  棺木
+      lingjiu                 灵柩
+
+  编号 019
+      cezi                    册子
+      duben                   读本
+      shuben                  书本
+      shuji                   书籍
+
+  编号 020
+      changchunteng           常春藤
+      panqiangtengben         攀墙藤本
+      panyuantengben          攀援藤本
+      paqiangteng             爬墙藤
+      tengman                 藤蔓
+      tengtiao                藤条
+      tengwan                 藤蔓
+
+  编号 021
+      qiuling                 丘陵
+      shangang                山冈
+      shanqiu                 山丘
+      xiaoshan                小山
+
+  编号 022
+      shuchu                  书橱
+      shugui                  书柜
+      shujia                  书架
+
+  编号 023
+      degula                  德古拉
+      degulabojue             德古拉伯爵
+      xixiegui                吸血鬼
+      xixuegui                吸血鬼
+
+  编号 024
+      daolu                   道路
+      lu                      路
+      lujing                  路径
+      tongdao                 通道
+      tonglu                  通路
+      zoulang                 走廊
+
+  编号 025
+      di                      地
+      diban                   地板
+      dibiao                  地表
+      dimian                  地面
+      diping                  地坪
+      dishang                 地上
+      nitu                    泥土
+      shineidimian            室内地面
+      tu                      土
+      tudi                    土地
+      turang                  土壤
+
+  编号 026
+      cao                     草
+      caocong                 草丛
+      caodi                   草地
+      caoping                 草坪
+      qingcao                 青草
+      xiaocao                 小草
+
+  编号 027
+      guniang                 姑娘
+      nvhai                   女孩
+      nvhaizi                 女孩子
+      nvren                   女人
+      nvxing                  女性
+      nvzi                    女子
+      shaonv                  少女
+
+  编号 028
+      hongzhuan               红砖
+      zhuan                   砖
+      zhuankuai               砖块
+
+  编号 029
+      nianyeguai              黏液怪
+      ruanniguai              软泥怪
+      shilaimu                史莱姆
+
+  编号 030
+      chouti                  抽屉
+      choutige                抽屉格
+      choutihe                抽屉盒
+
+  编号 031
+      qiang                   墙
+      qiangbi                 墙壁
+      qiangmian               墙面
+
+  编号 032
+      mao                     猫
+      maomi                   猫咪
+      xiaomao                 小猫
+
+  编号 033
+      daimoshuicaodebijia     带墨水槽的笔架
+      moshuijia               墨水架
+      moshuiping              墨水瓶
+      moshuirongqi            墨水容器
+      moshuitai               墨水台
+      zhuangmoshuidepingzi    装墨水的瓶子
+
+  编号 034
+      moshui                  墨水
+      moshuiguan              墨水罐
+      moshuihu                墨水壶
+      mozhi                   墨汁
+      shuxiemoshui            书写墨水
+
+  编号 035
+      bi                      笔
+      gangbi                  钢笔
+      qianzibi                签字笔
+      shuxiebi                书写笔
+
+  编号 036
+      daqiao                  大桥
+      diaoqiao                吊桥
+      qiao                    桥
+      qiaoliang               桥梁
+      xuansuoqiao             悬索桥
+
+  编号 037
+      chengbao                城堡
+      chengguo                城郭
+      dazhai                  大宅
+      guandi                  馆邸
+      gubao                   古堡
+      zhaidi                  宅邸
+      zhaiyuan                宅院
+
+  编号 038
+      bieshu                  别墅
+      fangzi                  房子
+      jia                     家
+      jianyixiaowu            简易小屋
+      jiazhai                 家宅
+      muwu                    木屋
+      wuzi                    屋子
+      xiaomuwu                小木屋
+      xiaowu                  小屋
+      yangguan                洋馆
+      zhaizi                  宅子
+      zhuzhai                 住宅
+
+  编号 039
+      douya                   陡崖
+      gudi                    谷地
+      qiaobi                  峭壁
+      shangu                  山谷
+      xiagu                   峡谷
+      xuanya                  悬崖
+
+  编号 040
+      chishui                 池水
+      chitang                 池塘
+      hu                      湖
+      hupo                    湖泊
+      hushui                  湖水
+      jishui                  积水
+      jishuiwa                积水洼
+      shuikeng                水坑
+      shuiwa                  水洼
+
+  编号 041
+      lizhu                   立柱
+      zhuzi                   柱子
+
+  编号 042
+      fujin                   附近
+      sizhou                  四周
+      zhoubian                周边
+      zhouwei                 周围
+
+  编号 043
+      hua                     画
+      huakuang                画框
+      huakuangjia             画框架
+      huazuo                  画作
+      huihuazuopin            绘画作品
+      tuhua                   图画
+      xiangkuang              相框
+
+  编号 044
+      chengmen                城门
+      damen                   大门
+      fangmen                 房门
+      men                     门
+      menfei                  门扉
+      menkou                  门口
+      menshan                 门扇
+
+  编号 045
+      gaoshan                 高山
+      qunshan                 群山
+      shan                    山
+      shanchuan               山川
+      shanfeng                山峰
+      shanling                山岭
+      shanmai                 山脉
+
+  编号 046
+      kong                    空
+      lantian                 蓝天
+      tian                    天
+      tiankong                天空
+      tianqi                  天气
+      tianshang               天上
+
+  编号 047
+      chuanghu                窗户
+      chuangkou               窗口
+
+  编号 048
+      dashu                   大树
+      shu                     树
+      shumu                   树木
+      shuzhi                  树枝
+      shuzhiduan              树枝段
+
+  编号 049
+      chuang                  床
+      chuangpu                床铺
+      wota                    卧榻
+
+  编号 050
+      xinxiang                信箱
+      youtong                 邮筒
+      youxiang                邮箱
+      youzhengxinxiang        邮政信箱
+
+  编号 051
+      dashi                   大石
+      eluanshi                鹅卵石
+      jushi                   巨石
+      shikuai                 石块
+      shitou                  石头
+      shizi                   石子
+      suishi                  碎石
+      xiaoshi                 小石
+      xiaoshizi               小石子
+      yanshi                  岩石
+
+  编号 052
+      ming                    名
+      mingcheng               名称
+      mingzi                  名字
+      xingming                姓名
+
+  编号 053
+      nianji                  年纪
+      nianling                年龄
+      suishu                  岁数
+
+  编号 054
+      aihao                   爱好
+      shihao                  嗜好
+      xingqu                  兴趣
+
+  编号 055
+      benling                 本领
+      juehuo                  绝活
+      techang                 特长
+      teji                    特技
+
+  编号 056
+      hani                    哈尼
+      haniwa                  哈尼瓦
+      taoou                   陶偶
+      tuou                    土偶
+      tuzhirenou              土制人偶
+
+  编号 057
+      deng                    灯
+      dengjia                 灯架
+      dengju                  灯具
+      huoba                   火把
+      huoju                   火炬
+      songming                松明
+      taideng                 台灯
+      taijia                  台架
+      taizuo                  台座
+      xiaodeng                小灯
+      yedeng                  夜灯
+      youdeng                 油灯
+      zhijia                  支架
+
+  编号 058
+      yizi                    椅子
+      zuoyi                   座椅
+
+  编号 059
+      fatao                   发套
+      jiafa                   假发
+      jiafatao                假发套
+
+  编号 060
+      chungao                 唇膏
+      kouhong                 口红
+
+  编号 061
+      bangongzhuo             办公桌
+      canzhuo                 餐桌
+      fanzhuo                 饭桌
+      shuzhuo                 书桌
+      xiezitai                写字台
+      zhuozi                  桌子
+
+  编号 062
+      beiwanglu               备忘录
+      biantiao                便条
+      biji                    笔记
+      suizhi                  碎纸
+      suizhipian              碎纸片
+      zhi                     纸
+      zhipian                 纸片
+      zhitiao                 纸条
+      zhizhang                纸张
+
+  编号 063
+      bichu                   壁橱
+      choutigui               抽屉柜
+      chuwugui                储物柜
+      dougui                  斗柜
+      geban                   搁板
+      guizi                   柜子
+      huojia                  货架
+      jiazi                   架子
+      wangui                  碗柜
+      yigui                   衣柜
+      zhiwujia                置物架
+
+  编号 064
+      anhao                   暗号
+      kouling                 口令
+      lingpai                 令牌
+      pangpang                Pon Pon
+      pengpeng                Pon Pon
+      pongpong                Pon Pon
+      ponpon                  Pon Pon
+      tongguankouling         通关口令
+
+  编号 065
+      anshi                   暗示
+      jianyi                  建议
+      quangao                 劝告
+      tishi                   提示
+      tishixinxi              提示信息
+      xiansuo                 线索
+      zhonggao                忠告
+
+  编号 066
+      jieti                   阶梯
+      lou                     楼
+      louti                   楼梯
+      taijie                  台阶
+
+  编号 067
+      ganjing                 干净
+      haokan                  好看
+      keai                    可爱
+      meili                   美丽
+      piaoliang               漂亮
+      rerenlianai             惹人怜爱
+      taorenxihuan            讨人喜欢
+
+  编号 068
+      fuping                  浮萍
+      pingcao                 萍草
+      shuifuping              水浮萍
+
+  编号 069
+      nvshen                  女神
+      nvshendaren             女神大人
+      shennv                  神女
+
+  编号 070
+      fuzhuang                服装
+      xiaofu                  校服
+      xueshengzhifu           学生制服
+      yifu                    衣服
+      yishang                 衣裳
+      yiwu                    衣物
+      zhifu                   制服
+
+  编号 071
+      bianxi                  便西
+      xiuxianxizhuangwaitao   休闲西装外套
+      xizhuangjiake           西装夹克
+      xizhuangwaitao          西装外套
+
+  编号 072
+      lingdai                 领带
+
+  编号 073
+      chushengnianyueri       出生年月日
+      chushengriqi            出生日期
+      danchen                 诞辰
+      shengri                 生日
+      shengridangtian         生日当天
+
+  编号 074
+      xuexing                 血型
+      xuexingxinxi            血型信息
+      xueyexing               血液型
+
+  编号 075
+      chicun                  尺寸
+      daxiao                  大小
+      guige                   规格
+      sanwei                  三围
+      sanweichicun            三围尺寸
+      shangwei                上围
+      tunwei                  臀围
+      tunweichicun            臀围尺寸
+      xiongwei                胸围
+      yaobuchicun             腰部尺寸
+      yaowei                  腰围
+
+  编号 076
+      dixia                   底下
+      xiabian                 下边
+      xiafang                 下方
+      xiamian                 下面
+
+  编号 077
+      fasi                    发丝
+      toufa                   头发
+      xiufa                   秀发
+
+  编号 078
+      naizi                   奶子
+      oupai                   欧派
+      rufang                  乳房
+      xiongbu                 胸部
+      xiongkou                胸口
+      xiongtang               胸膛
+
+  编号 079
+      pigu                    屁股
+      tunbu                   臀部
+      tuner                   臀儿
+
+  编号 080
+      naer                    那儿
+      nagedifang              那个地方
+      nali                    那里
+
+  编号 081
+      bendan                  笨蛋
+      chou                    丑
+      choubaguai              丑八怪
+      chounv                  丑女
+      chunhuo                 蠢货
+      daizi                   呆子
+      hutudan                 糊涂蛋
+      shabi                   傻逼
+      shagua                  傻瓜
+      shazi                   傻子
+
+  编号 082
+      niganshenmene           你干什么呢
+      nizaiganma              你在干嘛
+      nizaiganshenme          你在干什么
+      nizaizuoshenme          你在做什么
+
+  编号 083
+      bilu                    壁炉
+      huolu                   火炉
+      nuanlu                  暖炉
+
+  编号 084
+      guan                    罐
+      guanzi                  罐子
+      huaping                 花瓶
+      taoguan                 陶罐
+
+  编号 085
+      fulan                   扶栏
+      fushou                  扶手
+      langan                  栏杆
+      loutifushou             楼梯扶手
+
+  编号 086
+      laju                    蜡炬
+      lazhu                   蜡烛
+
+  编号 087
+      zhen                    枕
+      zhentou                 枕头
+
+  编号 088
+      baiyun                  白云
+      yun                     云
+      yunceng                 云层
+      yunduo                  云朵
+
+  编号 089
+      dingpeng                顶棚
+      shineidingbu            室内顶部
+      tianhuaban              天花板
+
+  编号 090
+      diaodeng                吊灯
+      shuijingdiaodeng        水晶吊灯
+      zhixingdiaodeng         枝形吊灯
+
+  编号 091
+      fangding                房顶
+      wuding                  屋顶
+      wumian                  屋面
+
+  编号 092
+      jusuo                   居所
+      zanbaoliu               暂保留
+      zhuchu                  住处
+      zhujia                  住家
+      zhusuo                  住所
+
+  编号 093
+      dianhua                 电话
+      dianhuahao              电话号
+      dianhuahaoma            电话号码
+      dianhuaji               电话机
+      lianluohaoma            联络号码
+      zuoji                   座机
+
+  编号 094
+      qiliao                  漆料
+      tuliao                  涂料
+      youqi                   油漆
+
+  编号 095
+      bashou                  把手
+      lashou                  拉手
+      menbashou               门把手
+      shoubing                手柄
+
+  编号 096
+      qingshui                清水
+      shui                    水
+      shuiti                  水体
+      yinyongshui             饮用水
+
+  编号 097
+      chuanyijing             穿衣镜
+      jingmian                镜面
+      jingzi                  镜子
+
+  编号 098
+      meishu                  美树
+      meishubenren            美树本人
+      meishujiang             美树酱
+      meishuxiaojie           美树小姐
+      xiaomeishu              小美树
+
+==============================================================================
+  END
+==============================================================================

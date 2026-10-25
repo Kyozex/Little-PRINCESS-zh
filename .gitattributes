@@ -1,0 +1,9 @@
+# 二进制发行文件不做行尾转换，也不参与逐行差异比较。
+*.exe binary
+*.zip binary
+*.png binary
+*.gif binary
+
+# 文本资源统一按 UTF-8 存储，行尾使用 LF。
+*.txt text eol=lf
+*.md  text eol=lf

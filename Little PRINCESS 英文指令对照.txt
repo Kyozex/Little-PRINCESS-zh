@@ -1,0 +1,206 @@
+Little PRINCESS 英文指令对照（兼容输入）
+
+可输入英语指令，或输入无声调拼音指令。原版只接受日文指令，本表所列的英语指令识别与拼音合成均由本汉化版自行编写。拼音词内的音节连写，动作与对象之间用空格，例如 kan yanshi 会显示为“看 岩石”；按 Enter 执行。
+英语指令格式：英文动作 + 空格 + 英文对象，例如 look girl、use key、open door。英文不区分大小写；多词对象照表输入即可，例如 look blood type。北向指令可输入 north；最终口令可输入 password。
+输入拼音时请切换到英文输入模式，不需要系统中文输入法。无声调拼音词内音节连写，动作和对象间用空格，例如 yong yaoshi 会显示为“使用 钥匙”；方向词可单独输入。完整拼音词表及流程攻略见“Little PRINCESS 完整中文攻略.md”。有歧义的候选同义词不进入拼音词典；英语指令与拼音指令指向同一套动作与对象。
+ウゴカス（编号18）还可输入 yidong、qu、xiangzhe、xiang、chao、chaozhe，分别显示为“移动、去、向着、向、朝、朝着”。对象056输入 hani 显示“哈尼”，输入 haniwa 显示“哈尼瓦”。
+保存指令：baocun（保存）、cundang（存档）、baocunyouxi（保存游戏）、youxibaocun（游戏保存）、youxicundang（游戏存档）、cundangyouxi（存档游戏）、cunchu（存储）、chucun（储存）、youxicunchu（游戏存储）、youxichucun（游戏储存）按 Enter 后直接调用存档。
+读取指令：dudang（读档）、duqu（读取）、duquyouxi（读取游戏）、youxiduqu（游戏读取）、dudangyouxi（读档游戏）、youxidudang（游戏读档）按 Enter 后直接读取存档。输入 wupin（显示为“物品”）再按 Enter 可打开物品列表；F1、F3、F5 快捷键仍保留。
+额外拼音词：kanfa 显示“砍伐”、kandao 显示“砍倒”，都映射原版キル（编号06）；di 显示“地”，映射ジメン（对象025）；shanmai、shanchuan 分别显示“山脉、山川”，都映射ヤマ（对象045）；tian 显示“天”，映射ソラ（对象046）；yun、yunduo、baiyun、yunceng 分别显示“云、云朵、白云、云层”，都映射クモ（对象088）。
+游戏仍使用原有场景指令编号进行读取，下面的编号仅供核对。
+相同编号有时对应原作中不同的日文词，并非所有英语词都是互为同义词；例如 receive、eat、attack 分别保留各自含义，但沿用同一个旧编号。
+
+动作（输入词 | 含义 | 原游戏指令编号）
+inspect, investigate, look, look at, search | 调查、查看 | 01
+greet, hello | 打招呼 | 02
+say | 说 | 02
+speak, talk | 交谈 | 02
+receive | 收取、接受 | 03
+eat | 进食 | 03
+attack | 攻击 | 03
+kill | 杀死 | 03
+battle, fight | 战斗 | 04
+wipe, wipe off | 擦拭 | 05
+cut, cut out, slice | 切割 | 06
+enter, go in | 进入 | 07
+swim | 游泳 | 08
+give, hand over, pass | 给予、交给 | 09
+north | 北方 | 10
+front, forward | 前方 | 10
+south | 南方 | 11
+back | 后方 | 11
+west | 西方 | 12
+left | 左侧 | 12
+east | 东方 | 13
+right | 右侧 | 13
+save, save game | 保存 | 14
+load, load game, restore, restore game | 读取、恢复存档 | 15
+use | 使用 | 16
+wake, wake up | 唤醒 | 17
+move | 移动、去、向着、向、朝、朝着 | 18
+open | 打开 | 19
+violate, rape | 侵犯、强暴（原词须按语境理解） | 20
+assault | 袭击 | 20
+undress | 替他人脱衣 | 20
+dig | 挖掘 | 21
+get, take | 拿取 | 22
+hold | 持有 | 22
+discard | 丢弃 | 23
+throw | 投掷 | 23
+ask, question | 询问 | 24
+listen | 倾听 | 24
+climb, go up | 攀爬 | 25
+go down, descend, go downstairs | 下降、下楼 | 26
+retreat, back away, step back | 后退 | 26
+hit, punch, strike | 击打 | 27
+drink | 饮用 | 28
+exit, leave | 离开 | 29
+cross, go across | 穿过 | 30
+kick, kick away | 踢 | 32
+
+对象（输入词 | 含义 | 原游戏对象编号）
+apple | 苹果 | 001
+doll, stuffed toy, plush toy | 布偶、毛绒玩具 | 002
+key | 钥匙 | 003
+bamboo shoot | 竹笋 | 004
+axe, hatchet | 斧头 | 005
+golden axe, gold axe | 金斧头 | 006
+silver axe | 银斧头 | 007
+hirara lemon, lemon | 柠檬 | 008
+garlic | 大蒜 | 009
+tuna, canned tuna | 金枪鱼罐头 | 010
+perfume | 香水 | 011
+towel | 毛巾 | 012
+cross | 十字架 | 013
+sapphire | 蓝宝石 | 014
+diamond | 钻石 | 015
+ruby | 红宝石 | 016
+knife, letter opener, paper knife | 刀、拆信刀 | 017
+sword | 剑 | 017
+coffin | 棺材 | 018
+book | 书 | 019
+vine | 藤蔓 | 020
+ivy | 常春藤 | 020
+hill | 山丘 | 021
+bookshelf, bookcase | 书架 | 022
+dracula | 德古拉 | 023
+road | 道路 | 024
+passage, corridor | 通道 | 024
+ground, earth | 地面 | 025
+floor | 地板 | 025
+soil | 土壤 | 025
+grass | 草、草丛 | 026
+grass patch, clump of grass, grassy area | 草丛 | 026
+girl, woman | 女孩、女人 | 027
+brick | 砖 | 028
+slime | 史莱姆 | 029
+drawer | 抽屉 | 030
+wall | 墙 | 031
+cat | 猫 | 032
+ink stand | 墨水架 | 033
+ink holder, inkwell | 墨水盒 | 033
+ink | 墨水 | 034
+ink pot, inkpot | 墨水瓶 | 034
+pen | 钢笔 | 035
+bridge | 桥 | 036
+castle | 城堡 | 037
+mansion | 宅邸 | 037
+house, home | 房子 | 038
+hut | 小屋 | 038
+valley | 山谷 | 039
+cliff | 悬崖 | 039
+pond | 池塘 | 040
+lake | 湖 | 040
+puddle | 水洼 | 040
+pillar, column | 柱子 | 041
+surroundings, around, vicinity | 周围 | 042
+picture, painting | 画 | 043
+frame, picture frame | 画框 | 043
+door | 门 | 044
+gate | 大门 | 044
+mountain | 山 | 045
+sky | 天空 | 046
+window | 窗户 | 047
+branch | 树枝 | 048
+tree | 树木 | 048
+bed | 床 | 049
+mailbox, postbox, post box | 邮筒 | 050
+stone, rock, pebble | 石头 | 051
+name | 名字 | 052
+age | 年龄 | 053
+hobby | 爱好 | 054
+special skill, skill | 特长 | 055
+haniwa | 哈尼瓦 | 056
+hani | 哈尼 | 056
+dogu, clay figurine | 土偶 | 056
+lamp | 灯 | 057
+torch | 火炬 | 057
+lamp stand | 灯架 | 057
+chair | 椅子 | 058
+wig | 假发 | 059
+lipstick | 口红 | 060
+desk, table | 桌子 | 061
+memo, note, scrap of paper | 便笺、纸片 | 062
+dresser, chest of drawers | 抽屉柜 | 063
+shelf | 架子 | 063
+cupboard, cabinet | 橱柜 | 063
+pom pom, pompom | 绒球 | 064
+password, passphrase | 口令 | 064
+hint, advice, tip | 提示 | 065
+stairs, staircase | 楼梯 | 066
+beautiful | 美丽 | 067
+pretty | 漂亮 | 067
+cute | 可爱 | 067
+clean | 干净 | 067
+duckweed, waterweed | 浮萍 | 068
+goddess | 女神 | 069
+uniform | 制服 | 070
+clothes, clothing | 衣服 | 070
+blazer | 西装外套 | 071
+tie, necktie | 领带 | 072
+birthday | 生日 | 073
+blood type | 血型 | 074
+waist | 腰围 | 075
+bust | 胸围 | 075
+size | 尺寸 | 075
+tongue | 舌头 | 076
+hair | 头发 | 077
+breasts, bosom | 胸部 | 078
+butt, bottom, buttocks | 臀部 | 079
+there, that place | 那里 | 080
+fool, idiot | 笨蛋 | 081
+ugly | 丑 | 081
+what are you doing, what are you up to | 在做什么 | 082
+fireplace | 壁炉 | 083
+jar, pot | 罐子 | 084
+railing, handrail | 栏杆 | 085
+candle | 蜡烛 | 086
+pillow | 枕头 | 087
+spider | 蜘蛛 | 088
+ceiling | 天花板 | 089
+chandelier | 枝形吊灯 | 090
+roof | 屋顶 | 091
+juujo | 原词“ジュウジョ”释义待核 | 092
+dwelling, residence | 住处 | 092
+telephone, phone | 电话 | 093
+phone number | 电话号码 | 093
+paint | 油漆 | 094
+handle | 把手 | 095
+water | 水 | 096
+mirror | 镜子 | 097
+miki, miki chan | 米基、米基酱 | 098
+
+开场区域的场景数据中确认存在以下指令组合：
+  look tree          查看树木
+  look mountain     查看群山
+  look road          查看道路
+  look grass         查看草丛
+  take bamboo shoot 拿取竹笋
+  dig ground         挖掘地面
+  climb tree         攀爬树木
+  cut tree           砍树
+  north              向北移动
+  south              向南移动
+  east               向东移动
+
+已逐项对照原版 se/verb.js 与 se/noun.js。相同编号只表示复用同一个旧游戏事件码，不代表词义相同；例如 north/front、west/left、east/right、south/back、retreat/descend 都分别保留原词义。复核修正包括：オカス（原词无汉字，按语境可指侵犯/强暴）、オソウ=assault、ヌガス=undress、サガル=retreat、キク=listen；attack 保留给コウゲキ，以免两个不同旧编号冲突。ハニワ／ハニ仅使用“哈尼”或“哈尼瓦”；输入 hani 显示“哈尼”，输入 haniwa 显示“哈尼瓦”。ドグウ是另一日文词，虽共用编号056，仍单独对应“土偶”。クサ与クサムラ、エ与ガク、タナ与タンス与トダナ均分开列义。ダンロ校为 fireplace，シーチキン注明为金枪鱼罐头；英词过度具体或错配的 hip、katana、doorknob、paint can 等已移除。ジュウジョ无法从原脚本拼写可靠判义，保留 juujo 音译并标为待核；スマイ另列 dwelling/residence，不猜成十字形装饰。已知的开场组合另有场景数据核验；其余组合仍受原游戏剧情事件限制。
