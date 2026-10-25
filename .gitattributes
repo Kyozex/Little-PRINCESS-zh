@@ -7,3 +7,4 @@
 # 文本资源统一按 UTF-8 存储，行尾使用 LF。
 *.txt text eol=lf
 *.md  text eol=lf
+LICENSE text eol=lf
