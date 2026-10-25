@@ -185,17 +185,4 @@ water | 水 | 096
 mirror | 镜子 | 097
 miki, miki chan | 米基、米基酱 | 098
 
-开场区域的场景数据中确认存在以下指令组合：
-  look tree          查看树木
-  look mountain      查看群山
-  look road          查看道路
-  look grass         查看草丛
-  take bamboo shoot  拿取竹笋
-  dig ground         挖掘地面
-  climb tree         攀爬树木
-  cut tree           砍树
-  north              向北移动
-  south              向南移动
-  east               向东移动
-
 已逐项对照原版 se/verb.js 与 se/noun.js。相同编号只表示复用同一个旧游戏事件码，不代表词义相同；例如 north/front、west/left、east/right、south/back、retreat/descend 都分别保留原词义。已知的开场组合另有场景数据核验；其余组合仍受原游戏剧情事件限制。
