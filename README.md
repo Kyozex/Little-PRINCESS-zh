@@ -1,5 +1,7 @@
 # Little PRINCESS 简体中文汉化版（Champion Soft · 1987 · MSX2）
 
+[![新增内容许可：CC BY-NC-SA 4.0](https://img.shields.io/badge/%E6%96%B0%E5%A2%9E%E5%86%85%E5%AE%B9-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE)
+
 《Little PRINCESS》是 **1987 年 11 月**由 **Champion Soft** 开发、**アリスソフト（AliceSoft）** 发行的
 MSX2 文字冒险游戏，以 FD 介质发行。本作是随磁盘杂志《レモネード》创刊号附录赠送的《さらわれた美樹ちゃん》
 的重制型作品，两者的展开与通关流程截然不同，请勿混用攻略。
