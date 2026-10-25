@@ -2,11 +2,7 @@ Little PRINCESS 英文指令对照（兼容输入）
 
 可输入英语指令，或输入无声调拼音指令。原版只接受日文指令，本表所列的英语指令识别与拼音合成均由本汉化版自行编写。拼音词内的音节连写，动作与对象之间用空格，例如 kan yanshi 会显示为“看 岩石”；按 Enter 执行。
 英语指令格式：英文动作 + 空格 + 英文对象，例如 look girl、use key、open door。英文不区分大小写；多词对象照表输入即可，例如 look blood type。北向指令可输入 north；最终口令可输入 password。
-输入拼音时请切换到英文输入模式，不需要系统中文输入法。无声调拼音词内音节连写，动作和对象间用空格，例如 yong yaoshi 会显示为“使用 钥匙”；方向词可单独输入。有歧义的候选同义词不进入拼音词典；英语指令与拼音指令指向同一套动作与对象。
-ウゴカス（编号18）还可输入 yidong、qu、xiangzhe、xiang、chao、chaozhe，分别显示为“移动、去、向着、向、朝、朝着”。对象056输入 hani 显示“哈尼”，输入 haniwa 显示“哈尼瓦”。
-保存指令：baocun（保存）、cundang（存档）、baocunyouxi（保存游戏）、youxibaocun（游戏保存）、youxicundang（游戏存档）、cundangyouxi（存档游戏）、cunchu（存储）、chucun（储存）、youxicunchu（游戏存储）、youxichucun（游戏储存）按 Enter 后直接调用存档。
-读取指令：dudang（读档）、duqu（读取）、duquyouxi（读取游戏）、youxiduqu（游戏读取）、dudangyouxi（读档游戏）、youxidudang（游戏读档）按 Enter 后直接读取存档。输入 wupin（显示为“物品”）再按 Enter 可打开物品列表；F1、F3、F5 快捷键仍保留。
-额外拼音词：kanfa 显示“砍伐”、kandao 显示“砍倒”，都映射原版キル（编号06）；di 显示“地”，映射ジメン（对象025）；shanmai、shanchuan 分别显示“山脉、山川”，都映射ヤマ（对象045）；tian 显示“天”，映射ソラ（对象046）；yun、yunduo、baiyun、yunceng 分别显示“云、云朵、白云、云层”，都映射クモ（对象088）。
+无声调拼音词内音节连写，动作和对象间用空格，例如 yong yaoshi 会显示为“使用 钥匙”；方向词可单独输入。有歧义的候选同义词不进入拼音词典；英语指令与拼音指令指向同一套动作与对象。
 游戏仍使用原有场景指令编号进行读取，下面的编号仅供核对。
 相同编号有时对应原作中不同的日文词，并非所有英语词都是互为同义词；例如 receive、eat、attack 分别保留各自含义，但沿用同一个旧编号。
 
